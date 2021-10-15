@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Packages
+
+npm install react-bootstrap bootstrap@4.6.0
+
+### First Commit
+
+git add .
+
+git commit -m "project files"
+
+git remote add origin https://github.com/yigith/rnote.git
+
+git push -u origin master
+
+### Second Commit
+
+git add .
+
+git commit -m "description"
+
+git push
